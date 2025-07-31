@@ -1,0 +1,53 @@
+<div class="page">
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="/images/logo.png" alt="Spicecraft Logo" class="logo" />
+      <span style="font-weight: 700; font-size: 20px;" [style.color]="PRIMARY">Spicecraft</span>
+    </div>
+    <div>
+      <ng-container *ngIf="!role">
+        <button class="nav-btn" (click)="goTo('/login')">Login</button>
+        <button class="nav-btn" (click)="goTo('/register')">Register</button>
+      </ng-container>
+      <button class="nav-btn" (click)="goTo('/restaurant-login')">Restaurant Login</button>
+      <button class="nav-btn" (click)="goTo('/delivery-login')">Delivery Login</button>
+      <button *ngIf="role === 'Admin'" class="nav-btn" (click)="goTo('/admin')">Admin Dashboard</button>
+    </div>
+  </div>
+
+  <!-- Hero -->
+  <div class="hero">
+    <h1 class="hero-title">Welcome to Spicecraft</h1>
+    <p class="hero-sub">Fresh food, fast delivery, happy vibes.</p>
+  </div>
+
+  <!-- Restaurant Grid -->
+  <div style="background: white; padding: 2rem;">
+    <h2 class="restaurants-title">Top Restaurants</h2>
+    <div class="restaurants-grid">
+      <div *ngIf="restaurants.length === 0" class="no-restaurants">
+        🥲 No restaurants available at the moment.
+      </div>
+      <div
+        *ngFor="let r of restaurants"
+        class="restaurant-card"
+        (click)="handleOrder(r.restaurantId)"
+      >
+        <img
+          [src]="r.logoPath || '/images/logo.png'"
+          [alt]="r.name"
+          class="restaurant-logo"
+          (error)="onLogoError($event)"
+        />
+        <div class="restaurant-name">{{ r.name }}</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    &copy; {{ currentYear }} Spicecraft &mdash; made with
+    <span style="color: #ffe2e2;">♥</span>
+  </footer>
+</div>
