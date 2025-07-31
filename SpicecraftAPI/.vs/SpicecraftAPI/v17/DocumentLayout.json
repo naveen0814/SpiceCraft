@@ -1,0 +1,1695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\cartcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\cartcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\discountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\discountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\cartitemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\cartitemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\ordercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\ordercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\paymentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\paymentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\deliverypartnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\deliverypartnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\reviewcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\reviewcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraft.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}|SpiceCraft.Tests\\SpiceCraft.Tests.csproj|solutionrelative:spicecraft.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\ideliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\ideliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\deliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\deliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\deliverypartnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\deliverypartnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\menucategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\menucategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\controller\\menucategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\controller\\menucategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\menucategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\menucategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\swagger\\hideauthorizeddocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\swagger\\hideauthorizeddocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250617153402_adduseridtodeliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250617153402_adduseridtodeliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\deliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\deliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617152629_AddUserNavigationToDeliveryPartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250617152629_AddUserNavigationToDeliveryPartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\dto\\orderresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\dto\\orderresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\repository\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\repository\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250613062333_updaterestaurantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250613062333_updaterestaurantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250613044238_addrestaurantanddeliverypartnerloginsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250613044238_addrestaurantanddeliverypartnerloginsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250612054713_adddeliverypartnerandassigntoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250612054713_adddeliverypartnerandassigntoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613082135_AddUserIdToRestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250613082135_AddUserIdToRestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250528160000_convertroletoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250528160000_convertroletoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\spicecraftapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\spicecraftapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\interface\\imenucategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\interface\\imenucategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\spicecraftapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\spicecraftapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526131926_FixCascadeError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526131926_FixCascadeError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526131722_FixCascadeError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526131722_FixCascadeError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130946_FixCascadeIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526130946_FixCascadeIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130840_FixCascadeIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526130840_FixCascadeIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130604_FixCascadeIssueInOrderItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526130604_FixCascadeIssueInOrderItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526062324_FixCascadeDiscounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526062324_FixCascadeDiscounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526061948_AddDecimalPrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpicecraftAPI\\Migrations\\20250526061948_AddDecimalPrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250526134227_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250526134227_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250528160415_adduserroleenumconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250528160415_adduserroleenumconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250612052228_addrestaurantapprovalfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250612052228_addrestaurantapprovalfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250612050922_updaterestaurantdocuments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250612050922_updaterestaurantdocuments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250612050332_convertuserroletostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250612050332_convertuserroletostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250612045901_updaterestaurantdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250612045901_updaterestaurantdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250613082645_addrestaurantuserfk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250613082645_addrestaurantuserfk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250614093231_addorderstatusandpaymentstatustoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250614093231_addorderstatusandpaymentstatustoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250618082001_addrestaurantlogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250618082001_addrestaurantlogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|c:\\users\\navee\\onedrive\\documents\\hexawaredoc\\spicecraftapi\\spicecraftapi\\migrations\\20250617154238_adduseridfktodeliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}|SpicecraftAPI\\SpicecraftAPI.csproj|solutionrelative:spicecraftapi\\migrations\\20250617154238_adduseridfktodeliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4c6a820c-6b64-3d43-8d5e-1c2cc7b5e916}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\MenuItemController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\MenuItemController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAuwLMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:31:58.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\appsettings.json",
+              "RelativeToolTip": "SpicecraftAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T06:17:38.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItemControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\CartItemControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\CartItemControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\CartItemControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\CartItemControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:44:36.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscountControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\DiscountControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\DiscountControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\DiscountControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\DiscountControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:43:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\AuthController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:39:40.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\OrderController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\OrderController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\OrderController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\OrderController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwIgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:32:15.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\CartControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\CartControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\CartControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\CartControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:40:56.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\OrderItemDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:23:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\OrderItemController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\OrderItemController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:32:34.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\OrderControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\OrderControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\OrderControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\OrderControllerTests.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAAAEsBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:46:19.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\CartController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\CartController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\CartController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\CartController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:26:24.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\OrderDto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA7wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:22:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\PaymentControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\PaymentControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\PaymentControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\PaymentControllerTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:39:12.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\PaymentDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\PaymentDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:23:23.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\CartItemController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\CartItemController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\CartItemController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:26:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\CartItemDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\CartItemDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA7wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:21:43.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\UserControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\UserControllerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:14:25.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\DiscountController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\DiscountController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\DiscountController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAywDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:27:01.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\DiscountDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\DiscountDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\DiscountDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\DiscountDto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:21:59.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReviewControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\ReviewControllerTests.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\ReviewControllerTests.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\ReviewControllerTests.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\ReviewControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:36:52.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SpiceCraft.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpiceCraft.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "SpiceCraft.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:09:09.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\CartDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\CartDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\CartDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\CartDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:21:23.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\ReviewDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\ReviewDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:23:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\ReviewController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\ReviewController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\ReviewController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:33:33.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeliveryPartnerController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\DeliveryPartnerController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\DeliveryPartnerController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\DeliveryPartnerController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\DeliveryPartnerController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAADwv4IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:38:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\PaymentController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\PaymentController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\PaymentController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:33:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeliveryPartnerService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\DeliveryPartnerService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\DeliveryPartnerService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\DeliveryPartnerService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\DeliveryPartnerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:38:08.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\UserController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\UserController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1UAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:33:50.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Program.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAcwI0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:17:27.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDeliveryPartnerService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IDeliveryPartnerService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IDeliveryPartnerService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IDeliveryPartnerService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IDeliveryPartnerService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wAoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:31:12.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeliveryPartnerDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\DeliveryPartnerDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\DeliveryPartnerDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\DeliveryPartnerDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\DeliveryPartnerDto.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA7wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:30:33.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MenuItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\MenuItemDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\MenuItemDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\MenuItemDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\MenuItemDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:22:36.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Restaurant.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\Restaurant.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:08:48.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\RestaurantController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\RestaurantController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:33:16.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\RestaurantService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\RestaurantService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIBJwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:21:28.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\RestaurantDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\RestaurantDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\RestaurantDto.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA2wDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:23:37.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\OrderService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\OrderService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\OrderService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\OrderService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwMsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:18:10.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\OrderItemService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\OrderItemService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIBJwGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:19:05.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\MenuItemService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\MenuItemService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\MenuItemService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\MenuItemService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:15:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MenuCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\MenuCategoryService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\MenuCategoryService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\MenuCategoryService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\MenuCategoryService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:03:20.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\UserService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\UserService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\UserService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\UserService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwHQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:22:05.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:39:18.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:38:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\User.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:08:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\UserDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\UserDto.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:24:08.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\CartItemService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\CartItemService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\CartItemService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\CartItemService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:00:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:17:02.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IMenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IMenuItemService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IMenuItemService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IMenuItemService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IMenuItemService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:29:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MenuCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\MenuCategoryController.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Controller\\MenuCategoryController.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Controller\\MenuCategoryController.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Controller\\MenuCategoryController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAxwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:27:26.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20250618082001_AddRestaurantLogo.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250618082001_AddRestaurantLogo.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250618082001_AddRestaurantLogo.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250618082001_AddRestaurantLogo.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250618082001_AddRestaurantLogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:20:01.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MenuCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\MenuCategoryDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\MenuCategoryDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\MenuCategoryDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\MenuCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:22:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IOrderService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:29:23.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IRestaurantService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IRestaurantService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:30:10.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:12:29.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Order.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:11:54.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\ReviewService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\ReviewService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\ReviewService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwHwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:21:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HideAuthorizedDocumentFilter.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Swagger\\HideAuthorizedDocumentFilter.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Swagger\\HideAuthorizedDocumentFilter.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Swagger\\HideAuthorizedDocumentFilter.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Swagger\\HideAuthorizedDocumentFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:23:24.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:36:47.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20250617154238_AddUserIdFKToDeliveryPartner.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617154238_AddUserIdFKToDeliveryPartner.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250617154238_AddUserIdFKToDeliveryPartner.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617154238_AddUserIdFKToDeliveryPartner.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250617154238_AddUserIdFKToDeliveryPartner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:42:38.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeliveryPartner.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\DeliveryPartner.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\DeliveryPartner.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\DeliveryPartner.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\DeliveryPartner.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:32:11.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250617152629_AddUserNavigationToDeliveryPartner.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617152629_AddUserNavigationToDeliveryPartner.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250617152629_AddUserNavigationToDeliveryPartner.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617152629_AddUserNavigationToDeliveryPartner.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250617152629_AddUserNavigationToDeliveryPartner.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:26:29.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250617153402_AddUserIdToDeliveryPartner.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617153402_AddUserIdToDeliveryPartner.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250617153402_AddUserIdToDeliveryPartner.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250617153402_AddUserIdToDeliveryPartner.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250617153402_AddUserIdToDeliveryPartner.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:34:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IUserService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:30:44.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\OrderResultDto.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\DTO\\OrderResultDto.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\DTO\\OrderResultDto.cs",
+              "RelativeToolTip": "SpicecraftAPI\\DTO\\OrderResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:44:29.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IOrderItemService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IOrderItemService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IOrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:29:37.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IPaymentService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:29:54.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IReviewService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IReviewService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:30:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IDiscountService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:32.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\PaymentService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\PaymentService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\PaymentService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:21:10.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Discount.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:13:24.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\CartService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\CartService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\CartService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\CartService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwGQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:00:05.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\DiscountService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Repository\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Repository\\DiscountService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Repository\\DiscountService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:57:33.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\MenuCategory.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:09:36.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:12:58.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20250614093231_AddOrderStatusAndPaymentStatusToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250614093231_AddOrderStatusAndPaymentStatusToOrder.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250614093231_AddOrderStatusAndPaymentStatusToOrder.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250614093231_AddOrderStatusAndPaymentStatusToOrder.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250614093231_AddOrderStatusAndPaymentStatusToOrder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:32:32.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:11:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:10:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20250613082645_AddRestaurantUserFK.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613082645_AddRestaurantUserFK.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250613082645_AddRestaurantUserFK.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613082645_AddRestaurantUserFK.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250613082645_AddRestaurantUserFK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:26:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250612054713_AddDeliveryPartnerAndAssignToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612054713_AddDeliveryPartnerAndAssignToOrder.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250612054713_AddDeliveryPartnerAndAssignToOrder.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612054713_AddDeliveryPartnerAndAssignToOrder.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250612054713_AddDeliveryPartnerAndAssignToOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:47:13.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250613044238_AddRestaurantAndDeliveryPartnerLoginSupport.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613044238_AddRestaurantAndDeliveryPartnerLoginSupport.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250613044238_AddRestaurantAndDeliveryPartnerLoginSupport.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613044238_AddRestaurantAndDeliveryPartnerLoginSupport.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250613044238_AddRestaurantAndDeliveryPartnerLoginSupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:42:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250613082135_AddUserIdToRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613082135_AddUserIdToRestaurant.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250613082135_AddUserIdToRestaurant.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613082135_AddUserIdToRestaurant.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250613082135_AddUserIdToRestaurant.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:21:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250613062333_UpdateRestaurantModel.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613062333_UpdateRestaurantModel.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250613062333_UpdateRestaurantModel.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250613062333_UpdateRestaurantModel.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250613062333_UpdateRestaurantModel.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAADwv9IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:23:33.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\ICartItemService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\ICartItemService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\ICartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:00.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\ICartService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\ICartService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\ICartService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:27:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\Review.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\Review.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:13:53.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\UserRole.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:22:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20250612052228_AddRestaurantApprovalField.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612052228_AddRestaurantApprovalField.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250612052228_AddRestaurantApprovalField.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612052228_AddRestaurantApprovalField.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250612052228_AddRestaurantApprovalField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:22:28.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250612050922_UpdateRestaurantDocuments.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612050922_UpdateRestaurantDocuments.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250612050922_UpdateRestaurantDocuments.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612050922_UpdateRestaurantDocuments.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250612050922_UpdateRestaurantDocuments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:09:22.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20250612050332_ConvertUserRoleToString.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612050332_ConvertUserRoleToString.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250612050332_ConvertUserRoleToString.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612050332_ConvertUserRoleToString.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250612050332_ConvertUserRoleToString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:03:32.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20250612045901_UpdateRestaurantDetails.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612045901_UpdateRestaurantDetails.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250612045901_UpdateRestaurantDetails.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250612045901_UpdateRestaurantDetails.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250612045901_UpdateRestaurantDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T04:59:01.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250528160000_ConvertRoleToEnum.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250528160000_ConvertRoleToEnum.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250528160000_ConvertRoleToEnum.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250528160000_ConvertRoleToEnum.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250528160000_ConvertRoleToEnum.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:00:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Models\\MenuItem.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:10:05.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SpicecraftAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T08:01:07.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SpicecraftAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\SpicecraftAPI.csproj",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\SpicecraftAPI.csproj",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\SpicecraftAPI.csproj",
+              "RelativeToolTip": "SpicecraftAPI\\SpicecraftAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T06:06:40.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IMenuCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IMenuCategoryService.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Interface\\IMenuCategoryService.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Interface\\IMenuCategoryService.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Interface\\IMenuCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:52.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20250528160415_AddUserRoleEnumConversion.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250528160415_AddUserRoleEnumConversion.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250528160415_AddUserRoleEnumConversion.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250528160415_AddUserRoleEnumConversion.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250528160415_AddUserRoleEnumConversion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:04:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SpicecraftAPI",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\SpicecraftAPI.csproj",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\SpicecraftAPI.csproj",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\SpicecraftAPI.csproj",
+              "RelativeToolTip": "SpicecraftAPI\\SpicecraftAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T15:29:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20250526134227_Inital.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526134227_Inital.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526134227_Inital.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526134227_Inital.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526134227_Inital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:42:27.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20250526131926_FixCascadeError.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526131926_FixCascadeError.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526131926_FixCascadeError.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526131926_FixCascadeError.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526131926_FixCascadeError.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:19:26.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20250526131722_FixCascadeError.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526131722_FixCascadeError.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526131722_FixCascadeError.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526131722_FixCascadeError.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526131722_FixCascadeError.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:17:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250526130946_FixCascadeIssue.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130946_FixCascadeIssue.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526130946_FixCascadeIssue.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130946_FixCascadeIssue.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526130946_FixCascadeIssue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:09:46.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20250526130840_FixCascadeIssue.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130840_FixCascadeIssue.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526130840_FixCascadeIssue.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130840_FixCascadeIssue.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526130840_FixCascadeIssue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:08:40.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20250526130604_FixCascadeIssueInOrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130604_FixCascadeIssueInOrderItems.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526130604_FixCascadeIssueInOrderItems.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526130604_FixCascadeIssueInOrderItems.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526130604_FixCascadeIssueInOrderItems.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:06:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20250526061948_AddDecimalPrecision.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526061948_AddDecimalPrecision.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526061948_AddDecimalPrecision.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526061948_AddDecimalPrecision.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526061948_AddDecimalPrecision.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:19:48.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20250526062324_FixCascadeDiscounts.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526062324_FixCascadeDiscounts.cs",
+              "RelativeDocumentMoniker": "SpicecraftAPI\\Migrations\\20250526062324_FixCascadeDiscounts.cs",
+              "ToolTip": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\Migrations\\20250526062324_FixCascadeDiscounts.cs",
+              "RelativeToolTip": "SpicecraftAPI\\Migrations\\20250526062324_FixCascadeDiscounts.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:23:25.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

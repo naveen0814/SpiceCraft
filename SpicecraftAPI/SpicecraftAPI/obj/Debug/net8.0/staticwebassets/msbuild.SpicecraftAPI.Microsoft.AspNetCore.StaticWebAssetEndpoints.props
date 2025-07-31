@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SpicecraftAPI/uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\restaurant-logos\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kk3eD1y\u002BtKO\u002BWsEshRH6hfkFsphfxDD4fQa\u002By1BxqNA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"143359"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kk3eD1y\u002BtKO\u002BWsEshRH6hfkFsphfxDD4fQa\u002By1BxqNA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 19:05:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SpicecraftAPI/uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.mm4c8i0u5b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\restaurant-logos\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mm4c8i0u5b"},{"Name":"integrity","Value":"sha256-kk3eD1y\u002BtKO\u002BWsEshRH6hfkFsphfxDD4fQa\u002By1BxqNA="},{"Name":"label","Value":"_content/SpicecraftAPI/uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"143359"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kk3eD1y\u002BtKO\u002BWsEshRH6hfkFsphfxDD4fQa\u002By1BxqNA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Jun 2025 19:05:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

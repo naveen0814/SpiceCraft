@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "ENuzYGwsbYdeCyl2dXB/bxj5hhi6ryOsp0m/owNt5eQ=",
+  "Source": "SpicecraftAPI",
+  "BasePath": "_content/SpicecraftAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SpicecraftAPI\\wwwroot",
+      "Source": "SpicecraftAPI",
+      "ContentRoot": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\wwwroot\\",
+      "BasePath": "_content/SpicecraftAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\wwwroot\\uploads\\restaurant-logos\\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg",
+      "SourceId": "SpicecraftAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\wwwroot\\",
+      "BasePath": "_content/SpicecraftAPI",
+      "RelativePath": "uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mm4c8i0u5b",
+      "Integrity": "kk3eD1y+tKO+WsEshRH6hfkFsphfxDD4fQa+y1BxqNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\restaurant-logos\\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg",
+      "AssetFile": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\wwwroot\\uploads\\restaurant-logos\\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kk3eD1y+tKO+WsEshRH6hfkFsphfxDD4fQa+y1BxqNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 19:05:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kk3eD1y+tKO+WsEshRH6hfkFsphfxDD4fQa+y1BxqNA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.mm4c8i0u5b.jpg",
+      "AssetFile": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\wwwroot\\uploads\\restaurant-logos\\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kk3eD1y+tKO+WsEshRH6hfkFsphfxDD4fQa+y1BxqNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 19:05:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mm4c8i0u5b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/restaurant-logos/96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kk3eD1y+tKO+WsEshRH6hfkFsphfxDD4fQa+y1BxqNA="
+        }
+      ]
+    }
+  ]
+}

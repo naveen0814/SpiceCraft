@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicecraftAPI", "SpicecraftAPI\SpicecraftAPI.csproj", "{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceCraft.Tests", "SpiceCraft.Tests\SpiceCraft.Tests.csproj", "{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841EE8BB-3AD4-42BB-9E23-8E1523699C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216BEAEE-7493-46E5-ABA4-3F8F3A616B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5EA0543-8D6A-4A1E-BAE1-5306BCBBE79A}
+	EndGlobalSection
+EndGlobal

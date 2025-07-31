@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\navee\\OneDrive\\Documents\\HEXAWAREDOC\\SpicecraftAPI\\SpicecraftAPI\\wwwroot\\uploads\\restaurant-logos\\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg",
+      "PackagePath": "staticwebassets\\uploads\\restaurant-logos\\96aaef58-c4ab-4dc5-96fa-9dfd6a18deae.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpicecraftAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpicecraftAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpicecraftAPI.props",
+      "PackagePath": "build\\SpicecraftAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpicecraftAPI.props",
+      "PackagePath": "buildMultiTargeting\\SpicecraftAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpicecraftAPI.props",
+      "PackagePath": "buildTransitive\\SpicecraftAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

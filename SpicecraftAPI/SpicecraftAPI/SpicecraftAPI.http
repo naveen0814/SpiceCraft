@@ -1,0 +1,6 @@
+@SpicecraftAPI_HostAddress = http://localhost:5262
+
+GET {{SpicecraftAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
